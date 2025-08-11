@@ -1,0 +1,1608 @@
+{
+  name: 'Can you get the loop ?',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/52a89c2ea8ddc5547a000863',
+  author: 'Devouring',
+  rating: '88',
+  completedAmount: '799'
+}
+{
+  name: 'IEEE 754 floating point numbers',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5efcaedf95d7110017896ced',
+  author: 'trashy_incel',
+  rating: '89',
+  completedAmount: '484'
+}
+{
+  name: 'Simpler Interactive Interpreter',
+  kyu: '2',
+  href: 'https://www.codewars.com/kata/53005a7b26d12be55c000243',
+  author: 'Wintermute',
+  rating: '93',
+  completedAmount: '164'
+}
+{
+  name: '1/n- Cycle',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5a057ec846d843c81a0000ad',
+  author: 'g964',
+  rating: '86',
+  completedAmount: '692'
+}
+{
+  name: 'Coloured Triangles',
+  kyu: '7',
+  href: 'https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111',
+  author: 'Avanta',
+  rating: '94',
+  completedAmount: '305'
+}
+{
+  name: 'Speed Control',
+  kyu: '7',
+  href: 'https://www.codewars.com/kata/56484848ba95170a8000004d',
+  author: 'g964',
+  rating: '85',
+  completedAmount: '602'
+}
+{
+  name: 'Operations on sequences',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5e4bb05b698ef0001e3344bc',
+  author: 'g964',
+  rating: '86',
+  completedAmount: '441'
+}
+{
+  name: 'Twisted Sum',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/527e4141bb2ea5ea4f00072f',
+  author: 'agram',
+  rating: '94',
+  completedAmount: '067'
+}
+{
+  name: 'Is  my friend cheating?',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5547cc7dcad755e480000004',
+  author: 'g964',
+  rating: '89',
+  completedAmount: '449'
+}
+{
+  name: 'Lost number in number sequence',
+  kyu: '7',
+  href: 'https://www.codewars.com/kata/595aa94353e43a8746000120',
+  author: 'evgv',
+  rating: '92',
+  completedAmount: '731'
+}
+{
+  name: 'Regular Expression - Check if divisible by 0b111 (7)',
+  kyu: '2',
+  href: 'https://www.codewars.com/kata/56a73d2194505c29f600002d',
+  author: 'Hacker Sakana',
+  rating: '92',
+  completedAmount: '293'
+}
+{
+  name: 'My smallest code interpreter (aka Brainf**k)',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/526156943dfe7ce06200063e',
+  author: 'ssineriz',
+  rating: '94',
+  completedAmount: '425'
+}
+{
+  name: 'Merged String Checker',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa',
+  author: 'Abbe',
+  rating: '82',
+  completedAmount: '582'
+}
+{
+  name: 'Longest Common Subsequence',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/52756e5ad454534f220001ef',
+  author: 'xDranik',
+  rating: '87',
+  completedAmount: '953'
+}
+{
+  name: 'Color Choice',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/55be10de92aad5ef28000023',
+  author: 'g964',
+  rating: '86',
+  completedAmount: '048'
+}
+{
+  name: 'Unlucky Days',
+  kyu: '7',
+  href: 'https://www.codewars.com/kata/56eb0be52caf798c630013c0',
+  author: 'suic',
+  rating: '92',
+  completedAmount: '186'
+}
+{
+  name: 'Last digit of a huge number',
+  kyu: '3',
+  href: 'https://www.codewars.com/kata/5518a860a73e708c0a000027',
+  author: 'Bodigrim',
+  rating: '87',
+  completedAmount: '968'
+}
+{
+  name: 'Points in the circle',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5b55c49d4a317adff500015f',
+  author: 'hubencu_st',
+  rating: '91',
+  completedAmount: '087'
+}
+{
+  name: 'Josephus Survivor',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/555624b601231dc7a400017a',
+  author: 'GiacomoSorbi',
+  rating: '89',
+  completedAmount: '046'
+}
+{
+  name: 'Esolang Interpreters #2 - Custom Smallfuck Interpreter',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/58678d29dbca9a68d80000d7',
+  author: 'donaldsebleung',
+  rating: '94',
+  completedAmount: '073'
+}
+{
+  name: 'Factorial decomposition',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5a045fee46d843effa000070',
+  author: 'g964',
+  rating: '94',
+  completedAmount: '721'
+}
+{
+  name: 'Linked Lists - Sorted Insert',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/55cc33e97259667a08000044',
+  author: 'JDeBolt',
+  rating: '94',
+  completedAmount: '572'
+}
+{
+  name: 'Did you mean ...?',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5259510fc76e59579e0009d4',
+  author: 'BattleRattle',
+  rating: '87',
+  completedAmount: '790'
+}
+{
+  name: 'Find the smallest',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/573992c724fc289553000e95',
+  author: 'g964',
+  rating: '83',
+  completedAmount: '948'
+}
+{
+  name: "Simpson's Rule - Approximate Integration",
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/565abd876ed46506d600000d',
+  author: 'g964',
+  rating: '85',
+  completedAmount: '951'
+}
+{
+  name: 'Ease the StockBroker',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/54de3257f565801d96001200',
+  author: 'g964',
+  rating: '78',
+  completedAmount: '223'
+}
+{
+  name: 'PatternCraft - Strategy',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5682e809386707366d000024',
+  author: 'brunolm',
+  rating: '90',
+  completedAmount: '705'
+}
+{
+  name: 'Point in Polygon',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/530265044b7e23379d00076a',
+  author: 'osuushi',
+  rating: '92',
+  completedAmount: '442'
+}
+{
+  name: 'Solve the Grid! Binary Toggling Puzzle',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5bfc9bf3b20606b065000052',
+  author: 'user9240328',
+  rating: '97',
+  completedAmount: '190'
+}
+{
+  name: 'Buddy Pairs',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/59ccf051dcc4050f7800008f',
+  author: 'g964',
+  rating: '88',
+  completedAmount: '851'
+}
+{
+  name: 'k-Primes',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b',
+  author: 'g964',
+  rating: '89',
+  completedAmount: '138'
+}
+{
+  name: 'Compare powers',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/55b2549a781b5336c0000103',
+  author: 'GiacomoSorbi',
+  rating: '87',
+  completedAmount: '303'
+}
+{
+  name: 'Digitize',
+  kyu: '7',
+  href: 'https://www.codewars.com/kata/5417423f9e2e6c2f040002ae',
+  author: 'mcclaskc',
+  rating: '92',
+  completedAmount: '619'
+}
+{
+  name: 'Fun with lists: filter',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/582041237df353e01d000084',
+  author: 'janitormeir',
+  rating: '93',
+  completedAmount: '177'
+}
+{
+  name: '6 By 6 Skyscrapers',
+  kyu: '2',
+  href: 'https://www.codewars.com/kata/5679d5a3f2272011d700000d',
+  author: 'FrankK',
+  rating: '98',
+  completedAmount: '563'
+}
+{
+  name: 'Multi Line Task:  Hello World (Without Letters)',
+  kyu: '2',
+  href: 'https://www.codewars.com/kata/59ee2671233243fd2c000168',
+  author: 'jason.whitted',
+  rating: '94',
+  completedAmount: '224'
+}
+{
+  name: 'one line task : find the nearest vowel for all',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/6158805b7b10b80007ce2c72',
+  author: 'LearningFTW',
+  rating: '93',
+  completedAmount: '54'
+}
+{
+  name: 'Binary Genetic Algorithms',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/526f35b9c103314662000007',
+  author: 'eugene-bulkin',
+  rating: '91',
+  completedAmount: '708'
+}
+{
+  name: 'How Many Numbers?',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/55d8aa568dec9fb9e200004a',
+  author: 'raulbc777',
+  rating: '91',
+  completedAmount: '173'
+}
+{
+  name: 'Finding yourself in the Integer Sea',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/6246b70e58ad06001864e9bb',
+  author: 'lsnbr',
+  rating: '100',
+  completedAmount: '33'
+}
+{
+  name: 'Twice linear',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/5672682212c8ecf83e000050',
+  author: 'g964',
+  rating: '89',
+  completedAmount: '593'
+}
+{
+  name: 'Find heavy ball - level: ubermaster',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/545c4f7682e55d3c6e0011a1',
+  author: 'bellmyer',
+  rating: '93',
+  completedAmount: '606'
+}
+{
+  name: 'Probabilities for Sums in Rolling  Cubic Dice',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/56f78a42f749ba513b00037f',
+  author: 'raulbc777',
+  rating: '94',
+  completedAmount: '774'
+}
+{
+  name: 'Javascript from the Inside  #1 : Map',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/558ccca75f511f2b0d0000f7',
+  author: 'karudedios',
+  rating: '74',
+  completedAmount: '651'
+}
+{
+  name: 'SHA-256 Cracker',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/587f0abdd8730aafd4000035',
+  author: 'alexpop',
+  rating: '92',
+  completedAmount: '876'
+}
+{
+  name: 'Calculate Pyramid Height',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/56968ce7753513604b000055',
+  author: 'ecocode',
+  rating: '93',
+  completedAmount: '733'
+}
+{
+  name: 'Square into Squares. Protect trees!',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/54eb33e5bc1a25440d000891',
+  author: 'g964',
+  rating: '91',
+  completedAmount: '396'
+}
+{
+  name: 'Master your primes: sieve with memoization',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/58603c898989d15e9e000475',
+  author: 'GiacomoSorbi',
+  rating: '67',
+  completedAmount: '180'
+}
+{
+  name: 'Bonuses',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5d68d05e7a60ba002b0053f6',
+  author: 'g964',
+  rating: '79',
+  completedAmount: '442'
+}
+{
+  name: 'Large Factorials',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/557f6437bf8dcdd135000010',
+  author: 'matt c',
+  rating: '87',
+  completedAmount: '636'
+}
+{
+  name: 'Javascript from the Inside #2: Filter',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/55afe435d2ce100356000032',
+  author: 'karudedios',
+  rating: '80',
+  completedAmount: '185'
+}
+{
+  name: '4 By 4 Skyscrapers',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/5671d975d81d6c1c87000022',
+  author: 'FrankK',
+  rating: '96',
+  completedAmount: '799'
+}
+{
+  name: 'Binary multiple of 3',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/54de279df565808f8b00126a',
+  author: 'rsalgado',
+  rating: '88',
+  completedAmount: '744'
+}
+{
+  name: 'Breadcrumb Generator',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/563fbac924106b8bf7000046',
+  author: 'GiacomoSorbi',
+  rating: '89',
+  completedAmount: '864'
+}
+{
+  name: 'One Line Task: Zero Or One',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/59031db02b0070a923000110',
+  author: 'myjinxin2015',
+  rating: '93',
+  completedAmount: '464'
+}
+{
+  name: 'Count ones in a segment',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/596d34df24a04ee1e3000a25',
+  author: 'd0n14',
+  rating: '94',
+  completedAmount: '345'
+}
+{
+  name: 'One line task: Is the King in check ?',
+  kyu: '3',
+  href: 'https://www.codewars.com/kata/5e320fe3358578001e04ad55',
+  author: 'Torkel',
+  rating: '92',
+  completedAmount: '145'
+}
+{
+  name: 'Well Yes, But Actually No',
+  kyu: 'Beta',
+  href: 'https://www.codewars.com/kata/5e797d3bc1baac001792d1f5',
+  author: 'Voile',
+  rating: '100',
+  completedAmount: '10'
+}
+{
+  name: 'Counting String Subsequences',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/52f7892a747862fc9a0009a6',
+  author: 'hermanschaaf',
+  rating: '95',
+  completedAmount: '682'
+}
+{
+  name: 'ASCII Fun #5: Days in Prison',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5a0af37ec374cb092e0000df',
+  author: 'zruF',
+  rating: '98',
+  completedAmount: '57'
+}
+{
+  name: 'Dithering',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/5426006a60d777c556001aad',
+  author: 'alfe',
+  rating: '92',
+  completedAmount: '222'
+}
+{
+  name: 'Dice rolls threshold',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/55d18ceefdc5aba4290000e5',
+  author: 'kirilloid',
+  rating: '95',
+  completedAmount: '153'
+}
+{
+  name: 'Airport Arrivals/Departures - #2',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/584cfd7e2609c8ab4d0000e3',
+  author: 'dinglemouse',
+  rating: '95',
+  completedAmount: '316'
+}
+{
+  name: 'replaceAll(input, find, replace)',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/52aaf51822e82a808100066b',
+  author: 'wthit56',
+  rating: '85',
+  completedAmount: '775'
+}
+{
+  name: 'The position of a digital string in a infinite digital string',
+  kyu: '2',
+  href: 'https://www.codewars.com/kata/582c1092306063791c000c00',
+  author: 'myjinxin2015',
+  rating: '94',
+  completedAmount: '213'
+}
+{
+  name: 'Sorting the Rabbit Hole',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/563301d00656afb8a600009d',
+  author: 'joh_pot',
+  rating: '95',
+  completedAmount: '175'
+}
+{
+  name: 'Fastest Code : Half it IV',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/5719b28964a584476500057d',
+  author: 'myjinxin2015',
+  rating: '94',
+  completedAmount: '79'
+}
+{
+  name: 'Greedy thief',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/58296c407da141e2c7000271',
+  author: 'myjinxin2015',
+  rating: '91',
+  completedAmount: '287'
+}
+{
+  name: 'Max Accessor Function',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/54341ff882b0fdec9c000011',
+  author: 'dnolan',
+  rating: '92',
+  completedAmount: '452'
+}
+{
+  name: 'T.T.T.11: Three increasing numbers',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/57761dd0c0276bebab000134',
+  author: 'myjinxin2015',
+  rating: '92',
+  completedAmount: '51'
+}
+{
+  name: 'T.T.T.#2: Equal to 24',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/574be65a974b95eaf40008da',
+  author: 'myjinxin2015',
+  rating: '94',
+  completedAmount: '053'
+}
+{
+  name: "Write JavaScript's 'call' function using apply.",
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/52d56d9c6b02b2fa9a0006d9',
+  author: 'Gowiem',
+  rating: '88',
+  completedAmount: '022'
+}
+{
+  name: 'Ins and Outs--Play game Series #6:',
+  kyu: '1',
+  href: 'https://www.codewars.com/kata/576bbb41b1abc47b3900015e',
+  author: 'myjinxin2015',
+  rating: '93',
+  completedAmount: '193'
+}
+{
+  name: 'Prime Fun #1',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/587a45b954a6780e37000176',
+  author: 'myjinxin2015',
+  rating: '90',
+  completedAmount: '50'
+}
+{
+  name: 'Word Segmentation',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/582cff1e37c5585e1400000e',
+  author: 'efess',
+  rating: '93',
+  completedAmount: '117'
+}
+{
+  name: 'Find match row and column position in a given string',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/58fae1eb2bffa7a570000039',
+  author: 'kirjs',
+  rating: '87',
+  completedAmount: '63'
+}
+{
+  name: 'Simple Fun #343: Add Spaces Between 1 To n',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/596c942361c22e6ae2000450',
+  author: 'myjinxin2015',
+  rating: '100',
+  completedAmount: '74'
+}
+{
+  name: 'Fix the pipes - #2 - is it leaking?',
+  kyu: '3',
+  href: 'https://www.codewars.com/kata/59f81fe146d84322ed00001e',
+  author: 'dcieslak',
+  rating: '98',
+  completedAmount: '460'
+}
+{
+  name: 'One Line Task: Are All Pair Sum Equals to 10?',
+  kyu: '3',
+  href: 'https://www.codewars.com/kata/59eaf81cfc3c4907a1000082',
+  author: 'myjinxin2015',
+  rating: '96',
+  completedAmount: '97'
+}
+{
+  name: 'SNAP',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5b49cc5a578c6ab6b200004c',
+  author: 'joecoker',
+  rating: '80',
+  completedAmount: '216'
+}
+{
+  name: 'Regexp basics - parsing integers',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5682e1082cc7862db5000039',
+  author: 'taw',
+  rating: '90',
+  completedAmount: '481'
+}
+{
+  name: 'Simple Fun #381: Find d = a + b + c II',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/5a13d36046d843105e000106',
+  author: 'myjinxin2015',
+  rating: '83',
+  completedAmount: '64'
+}
+{
+  name: 'Simple Fun #66: Obtain Max Number',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5893f03c779ce5faab0000f6',
+  author: 'myjinxin2015',
+  rating: '96',
+  completedAmount: '349'
+}
+{
+  name: 'Simple Fun #396: Find the Longest Substring Consisting of Unique Characters',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5bcd90808f9726d0f6000091',
+  author: 'myjinxin2015',
+  rating: '94',
+  completedAmount: '605'
+}
+{
+  name: 'Break the pieces',
+  kyu: '2',
+  href: 'https://www.codewars.com/kata/527fde8d24b9309d9b000c4e',
+  author: 'davazp',
+  rating: '97',
+  completedAmount: '702'
+}
+{
+  name: 'Olympiad podium',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5f4f9e1aac9fa3002e6e09f3',
+  author: 'ostaladaFab',
+  rating: '90',
+  completedAmount: '127'
+}
+{
+  name: 'Longest 2-character substring',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/55bc0c54147a98798f00003e',
+  author: 'JDeBolt',
+  rating: '94',
+  completedAmount: '341'
+}
+{
+  name: 'Permutation by number',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/581d1d669ae06274d5000074',
+  author: 'Stein256',
+  rating: '93',
+  completedAmount: '132'
+}
+{
+  name: 'Simple Fun #57: Runners Meetings',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5889a0706069af1cb9000176',
+  author: 'myjinxin2015',
+  rating: '92',
+  completedAmount: '120'
+}
+{
+  name: 'Additionless addition.',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/536ce83e2f403659a5000d47',
+  author: 'dukerutledge',
+  rating: '89',
+  completedAmount: '387'
+}
+{
+  name: 'Stone bridge primes',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5a1502db46d84395ab00008a',
+  author: 'KenKamau',
+  rating: '91',
+  completedAmount: '404'
+}
+{
+  name: 'Path Finder #3: the Alpinist',
+  kyu: '3',
+  href: 'https://www.codewars.com/kata/576986639772456f6f00030c',
+  author: 'evk',
+  rating: '95',
+  completedAmount: '252'
+}
+{
+  name: 'Simple Fun #302: Find The Max Sum',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/59252121fb1f93fc8200013a',
+  author: 'myjinxin2015',
+  rating: '93',
+  completedAmount: '184'
+}
+{
+  name: 'Challenge Fun #20: Edge Detection',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/58bfa40c43fadb4edb0000b5',
+  author: 'myjinxin2015',
+  rating: '94',
+  completedAmount: '54'
+}
+{
+  name: "Identify the array's ordering",
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/57f669477c9a2b1b9700022d',
+  author: 'edewsbery',
+  rating: '93',
+  completedAmount: '437'
+}
+{
+  name: 'Complete the photo pattern',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/58477f76ad2567b465000153',
+  author: 'myjinxin2015',
+  rating: '97',
+  completedAmount: '137'
+}
+{
+  name: 'Shrink the maze!',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/59bbbb7c6236541ecd0000e4',
+  author: 'Cerbrus',
+  rating: '98',
+  completedAmount: '64'
+}
+{
+  name: 'Graphics Series #5: The rope is burning',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5779cde582d7d004c30000d5',
+  author: 'myjinxin2015',
+  rating: '99',
+  completedAmount: '119'
+}
+{
+  name: 'Shortest code : Tidy up the room',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/57035af2d80ec6cdb40008ed',
+  author: 'myjinxin2015',
+  rating: '93',
+  completedAmount: '55'
+}
+{
+  name: 'Longest sequence with zero sum',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/52b4d1be990d6a2dac0002ab',
+  author: 'romanzes',
+  rating: '88',
+  completedAmount: '786'
+}
+{
+  name: 'Simple Fun #321: Scratch lottery II',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/594a2758954a44749f000359',
+  author: 'myjinxin2015',
+  rating: '92',
+  completedAmount: '254'
+}
+{
+  name: 'String Evaluation',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/57f548337763f20e02000114',
+  author: 'sataman',
+  rating: '91',
+  completedAmount: '500'
+}
+{
+  name: 'Spinning Rings',
+  kyu: '7',
+  href: 'https://www.codewars.com/kata/59afff65f1c8274f270020f5',
+  author: 'marbiru',
+  rating: '91',
+  completedAmount: '009'
+}
+{
+  name: 'One Line Task: Date Of Solar Calendar',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/59c5c02423daccae7700017d',
+  author: 'myjinxin2015',
+  rating: '93',
+  completedAmount: '57'
+}
+{
+  name: 'Levenshtein Distance',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/545cdb4f61778e52810003a2',
+  author: 'petermaier1',
+  rating: '90',
+  completedAmount: '054'
+}
+{
+  name: 'Min value of each n elements -- Simple version',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5831c5f8ac6a11e3380002de',
+  author: 'myjinxin2015',
+  rating: '91',
+  completedAmount: '887'
+}
+{
+  name: 'Bishop Movement checker',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/6135e4f40cffda0007ce356b',
+  author: 'user7314902',
+  rating: '93',
+  completedAmount: '515'
+}
+{
+  name: 'ISRC - Significant Figures',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5264c6495fda8eca2e000042',
+  author: 'vmcnabb',
+  rating: '68',
+  completedAmount: '130'
+}
+{
+  name: 'Longest Strict Bouncy Subarray',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5b483e70a4bc16eda40000f9',
+  author: 'raulbc777',
+  rating: '92',
+  completedAmount: '589'
+}
+{
+  name: 'Defend your castle',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/574b00f499d8f8fe1e0013bb',
+  author: 'juliankolbe',
+  rating: '89',
+  completedAmount: '143'
+}
+{
+  name: 'Simple Fun #167: Spreadsheet',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/58b38f24c723bf6b660000d8',
+  author: 'myjinxin2015',
+  rating: '95',
+  completedAmount: '331'
+}
+{
+  name: 'Definitely Naughty or Probably Nice?',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/52af840e0b1d45d45f000078',
+  author: 'nklein',
+  rating: '79',
+  completedAmount: '209'
+}
+{
+  name: 'Infinite Length  Binary Code',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/60c8bfa19547e80045184000',
+  author: 'gmferise',
+  rating: '85',
+  completedAmount: '267'
+}
+{
+  name: 'Path Finder #4: where are you?',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/5a0573c446d8435b8e00009f',
+  author: 'evk',
+  rating: '82',
+  completedAmount: '710'
+}
+{
+  name: 'Dynamic Programming #1: Shortest Path in a Weighted DAG',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5a2c343e8f27f2636c0000c9',
+  author: 'Axesilo',
+  rating: '92',
+  completedAmount: '266'
+}
+{
+  name: 'Missing number in Unordered Arithmetic Progression',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/568fca718404ad457c000033',
+  author: 'Hacker Sakana',
+  rating: '92',
+  completedAmount: '068'
+}
+{
+  name: 'programming beginner: Worst sort',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/582539ba4ef190f2e60000b2',
+  author: 'myjinxin2015',
+  rating: '85',
+  completedAmount: '77'
+}
+{
+  name: 'bread sandwiches',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/622a6a822494ab004b2c68d2',
+  author: 'herrungesund',
+  rating: '84',
+  completedAmount: '837'
+}
+{
+  name: 'ASCII Games: Warning: Ice!',
+  kyu: '3',
+  href: 'https://www.codewars.com/kata/58f4cc4e43251b1be6000082',
+  author: 'Voile',
+  rating: '99',
+  completedAmount: '362'
+}
+{
+  name: 'Arithmetic Expressions Evaluator',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/529f5e262281a70d9b00088a',
+  author: 'edalorzo',
+  rating: '82',
+  completedAmount: '347'
+}
+{
+  name: '1-800-CODE-WAR',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5a3267b2ee1aaead3d000037',
+  author: 'dinglemouse',
+  rating: '93',
+  completedAmount: '824'
+}
+{
+  name: 'Midpoint inception',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/56d67c7eecb553574900016c',
+  author: 'joh_pot',
+  rating: '93',
+  completedAmount: '89'
+}
+{
+  name: 'Fun with trees: is perfect',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/57dd79bff6df9b103b00010f',
+  author: 'janitormeir',
+  rating: '88',
+  completedAmount: '680'
+}
+{
+  name: 'The Primes as a Result of the Longest Consecutive Sum  I ',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/56e93159f6c72164b700062b',
+  author: 'raulbc777',
+  rating: '95',
+  completedAmount: '197'
+}
+{
+  name: 'The Sum of The First and The Last Prime Factor Make Chains of Numbers',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5629b94e34e04f8fb200008e',
+  author: 'raulbc777',
+  rating: '91',
+  completedAmount: '257'
+}
+{
+  name: 'Highest number with two prime factors',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/55f347cfb44b879e1e00000d',
+  author: 'raulbc777',
+  rating: '92',
+  completedAmount: '862'
+}
+{
+  name: 'Jumping down the staircase',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/647d08a2c736e3777c9ae1db',
+  author: 'Konstantin Modin',
+  rating: '94',
+  completedAmount: '223'
+}
+{
+  name: 'Finding the Incorrect Value in a Binary Tree',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/63f13a354a828b0041979359',
+  author: 'brodiemark',
+  rating: '94',
+  completedAmount: '453'
+}
+{
+  name: 'Palindrome integer composition',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/599b1a4a3c5292b4cc0000d5',
+  author: 'KenKamau',
+  rating: '86',
+  completedAmount: '341'
+}
+{
+  name: 'Canvas Fun #2: Draw Rectangles',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/592993301fad491f26000072',
+  author: 'myjinxin2015',
+  rating: '89',
+  completedAmount: '62'
+}
+{
+  name: 'Number Triangle',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/59c27053dcc40582a90000f0',
+  author: 'osofem',
+  rating: '97',
+  completedAmount: '34'
+}
+{
+  name: 'Paragraph Setting: Align Left',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/593da1ddacdf048c93000023',
+  author: 'discotechne',
+  rating: '86',
+  completedAmount: '99'
+}
+{
+  name: 'Simple Fun #217: Sort By Guide',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/590148d79097384be600001e',
+  author: 'myjinxin2015',
+  rating: '94',
+  completedAmount: '576'
+}
+{
+  name: 'Bridge the Islands',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/64a815e3e96dec077e305750',
+  author: 'hexolio',
+  rating: '88',
+  completedAmount: '78'
+}
+{
+  name: 'GPS Navigation',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5244ab738978478c1800002e',
+  author: 'jakber',
+  rating: '92',
+  completedAmount: '495'
+}
+{
+  name: 'Simple Fun #266: K Bits Digits',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5913f53a4ef30521ab00002e',
+  author: 'myjinxin2015',
+  rating: '93',
+  completedAmount: '111'
+}
+{
+  name: 'Formatting a number as price',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5318f00b31b30925fd0001f8',
+  author: 'arosemena',
+  rating: '84',
+  completedAmount: '015'
+}
+{
+  name: "My daughter's math test questions -- Part 2",
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/586894bea44cfca1a3000085',
+  author: 'myjinxin2015',
+  rating: '100',
+  completedAmount: '35'
+}
+{
+  name: 'Simple Fun #326a: The Shorterest Time',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5953c6f8af7ac14fd4000021',
+  author: 'JohanWiltink',
+  rating: '93',
+  completedAmount: '520'
+}
+{
+  name: 'Cross the Bridges',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5b89e7ce5ed7d48a220000b5',
+  author: 'Jomopipi',
+  rating: '93',
+  completedAmount: '79'
+}
+{
+  name: 'Find number in an array # 4',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5840f47570407f372a00008b',
+  author: 'myjinxin2015',
+  rating: '92',
+  completedAmount: '155'
+}
+{
+  name: 'Are the values equal?',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5814d0efad98ccb8d100012f',
+  author: 'Peter Rhodes',
+  rating: '88',
+  completedAmount: '223'
+}
+{
+  name: 'Play PacMan 2 : The way home',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/575ed46e23891f67d90000d8',
+  author: 'myjinxin2015',
+  rating: '96',
+  completedAmount: '54'
+}
+{
+  name: 'Sequence generator',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/55eee789637477c94200008e',
+  author: 'NaMe613',
+  rating: '94',
+  completedAmount: '837'
+}
+{
+  name: 'Distinct contiguous elements in every window of size k',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5945f0c207693bc53100006b',
+  author: 'jteodoro',
+  rating: '96',
+  completedAmount: '394'
+}
+{
+  name: 'Simple Fun #346: Red Alert',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/59c0765d70a3b708f00000c8',
+  author: 'myjinxin2015',
+  rating: '96',
+  completedAmount: '70'
+}
+{
+  name: 'Simple Fun #257: String Concatenation Process',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/59112b6424d75b2123000061',
+  author: 'myjinxin2015',
+  rating: '85',
+  completedAmount: '88'
+}
+{
+  name: 'Simple Fun #130: Robot Walk',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/58a64b48586e9828df000109',
+  author: 'myjinxin2015',
+  rating: '91',
+  completedAmount: '293'
+}
+{
+  name: 'Largest Elements',
+  kyu: '7',
+  href: 'https://www.codewars.com/kata/53d32bea2f2a21f666000256',
+  author: 'xcthulhu',
+  rating: '93',
+  completedAmount: '240'
+}
+{
+  name: 'Wilson primes',
+  kyu: '8',
+  href: 'https://www.codewars.com/kata/55dc4520094bbaf50e0000cb',
+  author: 'huzeifa',
+  rating: '55',
+  completedAmount: '188'
+}
+{
+  name: 'String subpattern recognition III',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5a4a2973d8e14586c700000a',
+  author: 'GiacomoSorbi',
+  rating: '94',
+  completedAmount: '346'
+}
+{
+  name: 'Simple Fun #155: Pac-Man',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/58ad0e0a154165a1c80000ea',
+  author: 'myjinxin2015',
+  rating: '94',
+  completedAmount: '274'
+}
+{
+  name: 'Simple Fun #150: Robot Transfer',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/58aaa3ca821a767300000017',
+  author: 'myjinxin2015',
+  rating: '95',
+  completedAmount: '244'
+}
+{
+  name: 'Value of x',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/614ac445f13ead000f91b4d0',
+  author: 'Water Coder',
+  rating: '93',
+  completedAmount: '333'
+}
+{
+  name: 'Training Random Testcases #1: Fizz Buzz',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/57980be93467db22f5000038',
+  author: 'myjinxin2015',
+  rating: '92',
+  completedAmount: '140'
+}
+{
+  name: 'Krazy King Blackjack',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/57bb798756449dea77000020',
+  author: 'DZGoldman',
+  rating: '95',
+  completedAmount: '208'
+}
+{
+  name: "Hardy's taxi (generalized)",
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/525d87d2a1b088366a000f7c',
+  author: 'jakber',
+  rating: '86',
+  completedAmount: '125'
+}
+{
+  name: 'Christmas Present Calculator',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/585b989c45376c73e30000d1',
+  author: 'zruF',
+  rating: '91',
+  completedAmount: '428'
+}
+{
+  name: 'Split Without Loss',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/581951b3704cccfdf30000d2',
+  author: 'narayanswa30663',
+  rating: '91',
+  completedAmount: '249'
+}
+{
+  name: 'Closest Sum',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/577e694af5db624cf30002d0',
+  author: 'smepple',
+  rating: '86',
+  completedAmount: '572'
+}
+{
+  name: 'Build a Trie',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5b65c47cbedf7b69ab00066e',
+  author: 'suic',
+  rating: '93',
+  completedAmount: '475'
+}
+{
+  name: 'Happy Coding : Dance Pad I',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/59ae1dd8485a4dff9f000020',
+  author: 'myjinxin2015',
+  rating: '91',
+  completedAmount: '36'
+}
+{
+  name: 'Word Spiral Permutations Generator',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5cfca6670310c20001286bc8',
+  author: 'manianis',
+  rating: '91',
+  completedAmount: '118'
+}
+{
+  name: 'Array.isArray',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/525a4cab1650d76b8000084d',
+  author: 'abednego',
+  rating: '86',
+  completedAmount: '688'
+}
+{
+  name: 'Help Kiyo きよ solve her problems LCM Fun!',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5872bb7faa04282110000124',
+  author: 'user8476848',
+  rating: '90',
+  completedAmount: '510'
+}
+{
+  name: 'Matrix Multiplier',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/573248f48e531896770001f9',
+  author: 'stevehopkinson',
+  rating: '91',
+  completedAmount: '156'
+}
+{
+  name: 'Dream Or Reality',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5864ab9c83f7e6333a0002a8',
+  author: 'myjinxin2015',
+  rating: '87',
+  completedAmount: '55'
+}
+{
+  name: 'Create N-dimensional array',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/6161847f52747c0025d0349a',
+  author: 'Konstantin Modin',
+  rating: '87',
+  completedAmount: '434'
+}
+{
+  name: 'Shakespearean Tug of War',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5a1a46ef80171fc2b0000064',
+  author: 'docgunthrop',
+  rating: '88',
+  completedAmount: '65'
+}
+{
+  name: 'Team dinner: find the best acceptable date',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/64b1727867b45c41a262c072',
+  author: 'alexc19',
+  rating: '93',
+  completedAmount: '94'
+}
+{
+  name: 'Get the addresses of all Google Sheets cells in the range',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/62c376ce1019024820580309',
+  author: 'Alexandre888',
+  rating: '91',
+  completedAmount: '470'
+}
+{
+  name: 'T.T.T.41: The maximum profit',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/57b2e6de1fae8a30fa000219',
+  author: 'myjinxin2015',
+  rating: '97',
+  completedAmount: '97'
+}
+{
+  name: 'Argument Mapper',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/52fee0a131b8158492000120',
+  author: 'ohager',
+  rating: '82',
+  completedAmount: '605'
+}
+{
+  name: 'Remove a Specific Element of an Array',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/581bb3c1c221fb8e790001ef',
+  author: 'raulbc777',
+  rating: '87',
+  completedAmount: '961'
+}
+{
+  name: 'Simple Fun #56: Beautiful Text',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/58899b0c97630e0b70000089',
+  author: 'myjinxin2015',
+  rating: '91',
+  completedAmount: '150'
+}
+{
+  name: 'Simple number sequence',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5a28cf591f7f7019a80000de',
+  author: 'KenKamau',
+  rating: '92',
+  completedAmount: '149'
+}
+{
+  name: 'Infix to Postfix Converter',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/52e864d1ffb6ac25db00017f',
+  author: 'thepyr',
+  rating: '91',
+  completedAmount: '724'
+}
+{
+  name: 'Divide and Conquer',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/64d482b76fad180017ecef0a',
+  author: 'saudiGuy',
+  rating: '94',
+  completedAmount: '231'
+}
+{
+  name: 'Connecting Values',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5562aa03004710f3ab0001d5',
+  author: 'TheDoctor',
+  rating: '93',
+  completedAmount: '247'
+}
+{
+  name: '23 Matches. Or more...',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5a9dbc735ee396ef590001de',
+  author: 'tiriana',
+  rating: '87',
+  completedAmount: '208'
+}
+{
+  name: 'Guess the array',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/59392ff00203d9686a0000c6',
+  author: 'ice1000',
+  rating: '97',
+  completedAmount: '352'
+}
+{
+  name: 'Skyscrapers Area',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/62a25309b070a3002f53b684',
+  author: 'mdandre',
+  rating: '94',
+  completedAmount: '155'
+}
+{
+  name: 'Image Processing',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5239078120eeabe18f0000da',
+  author: 'constablebrew',
+  rating: '90',
+  completedAmount: '752'
+}
+{
+  name: 'Closest Perfect Power',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/57c7930dfa9fc5f0e30009eb',
+  author: 'frissriss',
+  rating: '94',
+  completedAmount: '152'
+}
+{
+  name: 'Simple Fun #361: Who Is The Hero? I',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/59db31847997cb6d9c000097',
+  author: 'myjinxin2015',
+  rating: '91',
+  completedAmount: '90'
+}
+{
+  name: 'Reducing a pyramid',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5cc2cd9628b4200020880248',
+  author: 'FArekkusu',
+  rating: '84',
+  completedAmount: '258'
+}
+{
+  name: 'Simple max digit sum',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5b162ed4c8c47ea2f5000023',
+  author: 'KenKamau',
+  rating: '90',
+  completedAmount: '559'
+}
+{
+  name: 'Hat Game',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/618647c4d01859002768bc15',
+  author: 'Kacarott',
+  rating: '95',
+  completedAmount: '239'
+}
+{
+  name: 'T.T.T.60: Break all the rules',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/57ce3d87f5f4ef590000001b',
+  author: 'myjinxin2015',
+  rating: '98',
+  completedAmount: '58'
+}
+{
+  name: 'Letters and Numbers Game',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/63c1d93acdd8ca0065e35963',
+  author: 'dfhwze',
+  rating: '96',
+  completedAmount: '68'
+}
+{
+  name: 'Find the missed number',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5a1d86dbba2a142e040000ee',
+  author: 'kodejuice',
+  rating: '88',
+  completedAmount: '516'
+}
+{
+  name: 'Simple Fun #256: Two Arrays Nth Element',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/591120432e6009420b00002d',
+  author: 'myjinxin2015',
+  rating: '95',
+  completedAmount: '158'
+}
+{
+  name: 'Going backwards: Number from every possible sum of two digits',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5b4fd549bdd074f9a200005f',
+  author: 'JohanWiltink',
+  rating: '89',
+  completedAmount: '142'
+}
+{
+  name: 'Pad Left and Right',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5669ec539556f9e9f2000074',
+  author: 'brunolm',
+  rating: '77',
+  completedAmount: '534'
+}
+{
+  name: 'Closest pair of points',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5376343a003bf6e034000c56',
+  author: 'kirjs',
+  rating: '91',
+  completedAmount: '362'
+}
+{
+  name: 'Reusable memoisation',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5b773b698adeaeb6b80000df',
+  author: 'JohanWiltink',
+  rating: '83',
+  completedAmount: '882'
+}
+{
+  name: 'The Bus Passenger Puzzle',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/6766a7356205849837e24da3',
+  author: 'dfhwze',
+  rating: '100',
+  completedAmount: '20'
+}
+{
+  name: 'Bananas',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5917fbed9f4056205a00001e',
+  author: 'dinglemouse',
+  rating: '95',
+  completedAmount: '101'
+}
+{
+  name: 'HyperReduce',
+  kyu: '6',
+  href: 'https://www.codewars.com/kata/5aba8a75206a29494000021b',
+  author: 'Vaults',
+  rating: '100',
+  completedAmount: '44'
+}
+{
+  name: 'N queens problem (with no mandatory queen position)',
+  kyu: '4',
+  href: 'https://www.codewars.com/kata/52cdc1b015db27c484000031',
+  author: 'christianhammer',
+  rating: '92',
+  completedAmount: '290'
+}
+{
+  name: 'Decorator Pattern',
+  kyu: '5',
+  href: 'https://www.codewars.com/kata/5314ce58288b818ddc00006a',
+  author: 'surtich',
+  rating: '87',
+  completedAmount: '458'
+}
